@@ -1,6 +1,6 @@
 # Chat-App
 #### It's a messaging app which lets you send texts and share your current location among multiple users. 
-#### I have deployed the app. You can use it by clicking on the following link: https://khush-chat-app.herokuapp.com/
+#### The app is deployed. You can use it by clicking on the following link: https://khush-chat-app.herokuapp.com/
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/49335947/77944219-33768b80-72dc-11ea-954f-65b235c8ba98.png)
 #### Creating a user 'Khush':
